@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Tiago-Diass/Tiago-Diass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
