@@ -83,21 +83,6 @@ O meu objetivo é simples: escrever código limpo, construir software fiável e 
 <img src="https://streak-stats.demolab.com/?user=Tiago-Diass&theme=github-dark-blue&hide_border=true&background=0d1117" />
 
 </div>
-
----
-
-## 📈 Gráfico de atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tiago-Diass&theme=github-dark&hide_border=true&bg_color=0d1117&area=true" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:30363d,100:0d1117&height=100&section=footer" width="100%" />
 
 </div>
