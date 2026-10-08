@@ -40,9 +40,9 @@ O meu objetivo é simples: escrever código limpo, construir software fiável e 
 
 <a href="https://github.com/Tiago-Diass"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
 &nbsp;
-<a href="https://www.linkedin.com/in/O-TEU-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+<a href="https://www.linkedin.com/in/tiago-dias-09048239b/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
 &nbsp;
-<a href="mailto:O-TEU-EMAIL@exemplo.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+<a href="mailto:a14859@oficina.pt"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
 
 </div>
 
