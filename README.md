@@ -50,11 +50,7 @@ O meu objetivo é simples: escrever código limpo, construir software fiável e 
 
 ## 💻 Tecnologias
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,nodejs,express,react,html,css,git,github,vscode&perline=11" />
-
-</div>
+<div align="center"> <img src="https://img.shields.io/badge/C%2B%2B-0b1e45?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Java-4a7bab?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-0b1e45?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-4a7bab?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-0b1e45?style=for-the-badge&logo=arduino&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/React-4a7bab?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-0b1e45?style=for-the-badge&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Vite-4a7bab?style=for-the-badge&logo=vite&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-0b1e45?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-4a7bab?style=for-the-badge&logo=css3&logoColor=white" /> <br/> <img src="https://img.shields.io/badge/MySQL-0b1e45?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4a7bab?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-0b1e45?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Git-4a7bab?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-0b1e45?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </div>
 
 ---
 
